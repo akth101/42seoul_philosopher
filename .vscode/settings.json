@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "philosopher.h": "c",
+        "memory_resource": "c"
+    }
+}
